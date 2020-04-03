@@ -1,0 +1,1 @@
+{"C3512F":"Call a Nerd","1a3668":"Blue","a93f4a":"Brown","904bb3":"Purple","a0ce4e":"Green","fe504f":"Orange","f5d10b":"Yellow","fe3e6b":"Pink","1bbde8":"Sky Blue","8b0000":"Dark Red","0bdbb6":"Cyan","61b0ff":"CAN","4583ff":"Call a Nerd"}
